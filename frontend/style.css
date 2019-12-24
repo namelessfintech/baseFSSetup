@@ -1,0 +1,18 @@
+.container {
+    background-color: black
+}
+
+#employeeArea {
+    display: inline-block;
+    background-color: lightblue;
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+}
+#employeeDetailArea {
+    display: inline-block;
+    background-color: lightgray;
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+}

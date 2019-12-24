@@ -1,0 +1,15 @@
+{
+
+    "htmlhint.enable": true,
+    "htmlhint.documentSelector": [
+        "html",
+        "htm",
+        "twig"
+    ],
+    "htmlhint.options": {
+        "tagname-lowercase": false,
+        "attr-lowercase": true,
+        "attr-value-double-quotes":  true,
+        "doctype-first": false
+    }
+}
